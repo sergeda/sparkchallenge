@@ -5,7 +5,7 @@
 
 ## Commands
 * ```sbt test``` -> will run all tests
-* ```sbt assemble``` --> will build fat jar
+* ```sbt assembly``` --> will build fat jar
 
 ## SDKMAN
 * one of the easiest ways to manage java, scala and sbt version in local environment is with [SDKMAN](https://sdkman.io/);
